@@ -1,7 +1,7 @@
 import React from "react"
 import '../App.css';
 
-import GuessesRemaining from "./components/GuessesRemaining.js"
+
 
 // generate random number
 let secretNumber = Math.floor(Math.random() * 20) + 1;
